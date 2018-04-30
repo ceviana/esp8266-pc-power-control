@@ -10,3 +10,12 @@ echo -n PWR_ON > task.txt
 echo -n PWR_OFF > task.txt
 echo -n SHUTDOWN > task.txt
 ```
+
+ceviana.com/pc-power/endpoint.php?task=RESET
+
+ceviana.com/pc-power/endpoint.php?task=PWR_ON 
+
+ceviana.com/pc-power/endpoint.php?task=PWR_OFF 
+
+ceviana.com/pc-power/endpoint.php?task=SHUTDOWN 
+
